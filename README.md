@@ -16,11 +16,7 @@ Hello there! 👋 I'm Anant Jain, a passionate Software Developer with experienc
 [![](https://visitcount.itsvg.in/api?id=anantjain45823&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shiel
-
-https://github.com/anantjain45823/anantjain45823/assets/62471433/1955e27d-d9b2-41b8-b1d3-ed4086c2afe1
-
-ds.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anantjain) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anantjain) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
