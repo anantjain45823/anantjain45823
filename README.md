@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Anant Jain, a passionate Software Developer with experience in building scalable and efficient systems. <br>Currently, I work as a Software Developer Engineer at RudderStack, where I've been involved in shattering monoliths to micro-services and contributing to the Integration Team and JS-SDK team.<br>Experience<br><br>Software Developer Engineer at Rudderstack:<br>July 2022 - Present (2 Yr )<br>Working on Full Stack Development, designing robust ETL and rETL pipelines, and streamlining customer support processes.<br>Major Platform Integrations: Marketo, Discord, GainsightPX, Shopify, and Google Ads.<br><br><br>Software Engineer Intern at Accolite Digital<br>Jan 2022 - Jul 2022 (7 months) - Gurugram, Haryana, India<br>Implemented core functionalities and REST APIs in Golang, leveraging the language's standard library and best practices for error handling and concurrency.<br>
-
+Hello there! 👋 I'm Anant Jain, a passionate Software Developer with experience in building scalable and efficient systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anantjain28) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15923425) 
